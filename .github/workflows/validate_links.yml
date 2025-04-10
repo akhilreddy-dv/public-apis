@@ -27,3 +27,4 @@ jobs:
 
       - name: Validate all links from README.md
         run: python scripts/validate/links.py ${FILENAME}
+gtg
